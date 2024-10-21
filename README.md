@@ -22,7 +22,8 @@ Throughout my studies and work, I have developed a solid foundation in the follo
 I have completed several courses and earned certifications, including:
 - **Google Data Analytics Professional Certificate**.
 - **Coursera** courses on Python, Machine Learning, and Data Analysis.
-## Case example: Fitbit Data Analysis: Activity, Sleep, and Calorie Burn Study
+
+## Case example: Fitbit Data Analysis
 
 ### Introduction
 
