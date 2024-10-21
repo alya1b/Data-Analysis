@@ -1,13 +1,34 @@
 # Data-Analysis
 Portfolio
-
-# Fitbit Data Analysis: Activity, Sleep, and Calorie Burn Study
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Hard Skills](#hard-skills)
+3. [Courses and Badges](#courses-and-badges)
+4. [Case Example: Fitbit Data Analysis](#case-example-fitbit-data-analysis)
+5. [Tableau Projects](#tableau-projects)
+6. [Conclusion](#conclusion)
 
 ## Introduction
+Welcome to my Data-Analysis portfolio. In this repository, you will find examples of my work and the skills I have acquired. My CV is also available in this repository for further details on my education and experience.
+
+## Hard Skills
+Throughout my studies and work, I have developed a solid foundation in the following areas:
+
+- **University Courses**: Computer Science, Statistics, Data Structures, Machine Learning, Algorithms, Database Management (PostgreSQL), and Data Mining.
+- **Technical Skills**: Python (pandas, NumPy, Matplotlib, Seaborn), SQL, PostgreSQL, Machine Learning, and Data Visualization.
+- **Languages**: Ukrainian (native), English (Upper-Intermediate).
+
+## Courses and Badges
+I have completed several courses and earned certifications, including:
+- **Google Data Analytics Professional Certificate**.
+- **Coursera** courses on Python, Machine Learning, and Data Analysis.
+## Case example: Fitbit Data Analysis: Activity, Sleep, and Calorie Burn Study
+
+### Introduction
 
 This project analyzes Fitbit user data to identify trends in physical activity, sleep patterns, and calorie expenditure. Our goal is to extract actionable insights that can help improve user engagement and promote healthier behavior. By examining correlations between active minutes, sleep, and calorie burn, we offer recommendations for optimized user experience and system performance.
 
-## Dataset
+### Dataset
 
 The data used for this analysis is publicly available and contains multiple metrics including:
 
@@ -17,7 +38,7 @@ The data used for this analysis is publicly available and contains multiple metr
 
 You can find the dataset [here on Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
 
-## Business Insights
+### Business Insights
 
 From our analysis, we derived the following insights that can be valuable for Fitbit's user engagement strategies:
 
@@ -40,12 +61,22 @@ From our analysis, we derived the following insights that can be valuable for Fi
    - Users burn over 60 calories per hour, even during their most restful periods. This can help find the minimum calorie burn for a user, even if were no active minutes.
 
 
-## Code
+### Code
 
 The entire data analysis and visualization were conducted in Python, utilizing libraries such as `pandas`, `matplotlib`, and `seaborn`. You can view and run the complete code here:
 
 [Fitbit Data Analysis Google Colab notebook](https://colab.research.google.com/drive/1246f15GbOath4nxG3RoUxYP--2fcmrec?usp=sharing)
-## Conclusion
 
 This analysis provides valuable insights for Fitbit to enhance its user engagement through targeted notifications, balanced activity, and optimized system operations. By leveraging these insights, Fitbit can help users improve their daily activity levels, manage their weight more effectively, and maintain healthier routines.
 
+## Tableau Projects
+I have experience with **Tableau** for data visualization and analysis. Below are some key skills I possess:
+
+- Creating interactive dashboards.
+- Visualizing complex datasets.
+- Extracting business insights through data visualization.
+
+You can explore my Tableau projects here: [Tableau Public Profile](#).
+
+## Conclusion
+Thank you for reviewing my portfolio. In addition to data analysis, I have also worked on non-data-related projects, which you can explore [here](#).
