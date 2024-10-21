@@ -1,5 +1,5 @@
-# Data-Analysis
-Portfolio
+# Data Analysis Portfolio
+Alisa Baklan
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Hard Skills](#hard-skills)
@@ -14,14 +14,18 @@ Welcome to my Data-Analysis portfolio. In this repository, you will find example
 ## Hard Skills
 Throughout my studies and work, I have developed a solid foundation in the following areas:
 
-- **University Courses**: Computer Science, Statistics, Data Structures, Machine Learning, Algorithms, Database Management (PostgreSQL), and Data Mining.
-- **Technical Skills**: Python (pandas, NumPy, Matplotlib, Seaborn), SQL, PostgreSQL, Machine Learning, and Data Visualization.
+- **Technical Skills**: Python (pandas, NumPy, Matplotlib, Seaborn), MySQL, C++, Tableau.
+- **University Courses**: Statistics, Data Structures,  Algorithms, Machine Learning, Database Management etc.
 - **Languages**: Ukrainian (native), English (Upper-Intermediate).
 
 ## Courses and Badges
 I have completed several courses and earned certifications, including:
-- **Google Data Analytics Professional Certificate**.
-- **Coursera** courses on Python, Machine Learning, and Data Analysis.
+
+- **Google Data Analytics Professional Certificate**. [Link](https://www.credly.com/badges/6e6187fb-f3c1-44d4-b09e-cb203d57c6fa/public_url)
+- **SQL for Data Science (2022)**. [Link](https://www.credly.com/badges/6e6187fb-f3c1-44d4-b09e-cb203d57c6fa/public_url)
+- **Cloud Computing Basics (Cloud 101, 2024)**. [Link](https://www.credly.com/badges/6e6187fb-f3c1-44d4-b09e-cb203d57c6fa/public_url)
+- **Top SQL 50 LeetCode Badge**
+
 
 ## Case example: Fitbit Data Analysis
 
@@ -77,7 +81,7 @@ I have experience with **Tableau** for data visualization and analysis. Below ar
 - Visualizing complex datasets.
 - Extracting business insights through data visualization.
 
-You can explore my Tableau projects here: [Tableau Public Profile](#).
+You can explore my Tableau projects here: [Tableau Public Profile](https://public.tableau.com/app/profile/alisa.baklan/vizzes).
 
 ## Conclusion
-Thank you for reviewing my portfolio. In addition to data analysis, I have also worked on non-data-related projects, which you can explore [here](#).
+Thank you for reviewing my portfolio. In addition to data analysis, I have also worked on non-data-related projects, which you can explore [here](https://github.com/alya1b/).
